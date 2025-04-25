@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-z8s4jn=^90g=4s$#s^rnq97&enz90sc1jl*wadi83qdy_*w*#f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*', 'scaling-zebra-9wq5p994x5rhpg4x-8000.app.github.dev']
 
 
 # Application definition
